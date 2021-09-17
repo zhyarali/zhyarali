@@ -4,9 +4,10 @@
 
 
 ### پەیوەندیم پێوە بکە
-
+<center>
 <a href="https://fb.com/zhyar.ali.mahmood" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-128/facebook-224-498412.png" height="22" width="22" /></a>
-<a href="viber://chat?number=07501520479" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-64/viber-17-432553.png" height="22" width="22" /></a>
+<a href="viber://chat?number=07501520479" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-64/viber-3691232-3073752.png" height="22" width="22" /></a>
+</center>
 
 <h3 align="right"><b>وە شارەزاییم لەمانە هەیە لەبواری فرۆنت ئێند</b></h3>
 
