@@ -12,7 +12,7 @@
 <h3 align="right"><b>وە شارەزاییم لەمانە هەیە لەبواری فرۆنت ئێند</b></h3>
 
 <div style="display:flex">
-<img src="https://img.shields.io/badge/-Vue%20Js-blueviolet" width="50">
+<img src="https://img.shields.io/badge/-Vue%20Js-blueviolet?logo=html" width="50">
 <img src="https://img.shields.io/badge/-Vue%20Js-blueviolet" width="50">
 </div>
 
