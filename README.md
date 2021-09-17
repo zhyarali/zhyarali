@@ -3,11 +3,11 @@
 <h3 align="center">گەشەپێدەری وێبم </h3>
 
 
-### پەیوەندیم پێوە بکە
-<center style="display:flex;justify-content:center">
+
+<div style="display:flex;justify-content:center">
 <a href="https://fb.com/zhyar.ali.mahmood" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-128/facebook-224-498412.png" height="22" width="22" /></a>
 <a href="viber://chat?number=07501520479" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-64/viber-3691232-3073752.png" height="22" width="22" /></a>
-</center>
+</div>
 
 <h3 align="right"><b>وە شارەزاییم لەمانە هەیە لەبواری فرۆنت ئێند</b></h3>
 
@@ -15,7 +15,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Vue Js](https://img.shields.io/badge/-angular-000000?style=flat&logo=angular&logoColor=ff0000&labelColor=ffffff)
+![Vue](https://img.shields.io/badge/-angular-000000?style=flat&logo=angular&logoColor=ff0000&labelColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
