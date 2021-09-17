@@ -11,17 +11,7 @@
 
 <h3 align="right"><b>وە شارەزاییم لەمانە هەیە لەبواری فرۆنت ئێند</b></h3>
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue%20Js-bluevioletstyle=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
-![Ionic](https://img.shields.io/badge/-IONIC-000000?style=flat&logo=ionic&logoColor=ffffff&labelColor=458BFF)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter&logoColor=ffffff&labelColor=458BFF)
-![illustrator](https://img.shields.io/badge/-illustrator-000000?style=flat&logo=illustrator&logoColor=ffffff&labelColor=F79500)
+<img src="https://img.shields.io/badge/-Vue%20Js-blueviolet" width="20">
 
 
 <h3 align="right"><b>وە شارەزاییم لەمانە هەیە لەبواری باک ئێند</b></h3>
