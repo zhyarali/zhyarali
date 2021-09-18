@@ -12,8 +12,8 @@
 <h3 align="right"><b>وە شارەزاییم لەمانە هەیە لەبواری فرۆنت ئێند</b></h3>
 
 <div style="display:flex">
-<img src="https://img.shields.io/badge/-Html-FF5733" width="50" height="30">
-  <img src="https://img.shields.io/badge/-Css-2563EB" width="50" height="30">
+<img src="https://img.shields.io/badge/-Html-FF5733" width="50" height="25">
+  <img src="https://img.shields.io/badge/-Css-2563EB" width="50" height="25">
   <img src="https://img.shields.io/badge/-JavaScript-FCD34D" width="50">
    <img src="https://img.shields.io/badge/-JQuery-3B82F6" width="50">
     <img src="https://img.shields.io/badge/-Vue%20Js-059669" width="50">
