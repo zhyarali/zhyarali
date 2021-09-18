@@ -12,22 +12,21 @@
 <h3 align="right"><b>وە شارەزاییم لەمانە هەیە لەبواری فرۆنت ئێند</b></h3>
 
 <div style="display:flex">
-<img src="https://img.shields.io/badge/-HTML-FF5733" width="50">
-  <img src="https://img.shields.io/badge/-Vue%20Js-FF5733" width="50">
+<img src="https://img.shields.io/badge/-Html-FF5733" width="50">
+  <img src="https://img.shields.io/badge/-Css-2563EB" width="50">
+  <img src="https://img.shields.io/badge/-JavaScript-FCD34D" width="50">
+   <img src="https://img.shields.io/badge/-JQuery-3B82F6" width="50">
+    <img src="https://img.shields.io/badge/-Vue%20Js-059669" width="50">
+      <img src="https://img.shields.io/badge/-Vuetify%20Js-60A5FA" width="50">
+      <img src="https://img.shields.io/badge/-Nuxt%20Js-059669" width="50">
+       <img src="https://img.shields.io/badge/-Vite%20Js-4F46E5" width="50">
+         <img src="https://img.shields.io/badge/-Tailwind%20Css-3B82F6" width="50">
+           <img src="https://img.shields.io/badge/-Bootstrap%20Css-3730A3" width="50">
+             <img src="https://img.shields.io/badge/-Halfmoon%20Css-EC4899" width="50">
+               <img src="https://img.shields.io/badge/-Sass-DB2777" width="50">
+
+  
+ 
 </div>
 
-<h3 align="right"><b>وە شارەزاییم لەمانە هەیە لەبواری باک ئێند</b></h3>
-
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
-![Livewire](https://img.shields.io/badge/-Livewire-000000?style=flat&logo=Livewire&logoColor=ffffff&labelColor=FF2D20)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=ffffff&labelColor=118CC8)
-![CSharp](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=CSharp&logoColor=ffffff&labelColor=9C75D5)
-![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=Dart&logoColor=ffffff&labelColor=458BFF)
-![composer](https://img.shields.io/badge/-composer-000000?style=flat&logo=composer&logoColor=ffffff&labelColor=7C5235)
-![oracle](https://img.shields.io/badge/-oracle-000000?style=flat&logo=oracle&logoColor=ffffff&labelColor=7C5235)
-![sqlserver](https://img.shields.io/badge/-sqlserver-000000?style=flat&logo=sqlserver&logoColor=ffffff&labelColor=000)
 
