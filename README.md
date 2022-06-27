@@ -1,7 +1,5 @@
 
-<h3 align="center">ناوم ژیار علی محمودە</h1>
-<h3 align="center">گەشەپێدەری وێبم </h3>
-
+<h3 align="center">Hi My Name Is Zhyar Ali Mahmood</h1>
 
 
 <!-- <div style="display:flex;justify-content:center">
